@@ -1,0 +1,19 @@
+body {
+
+  margin: auto auto;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.credits {
+  position: absolute;
+  bottom: 0%;
+}
+
+.textIn {
+  border-radius: 5px;
+  background-color: transparent;
+  height: 30px;
+}
+
